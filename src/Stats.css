@@ -1,0 +1,11 @@
+.stats-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .stats-list li {
+    margin: 5px 0;
+    background-color: #00bbf0;
+    color: #45171d
+  }
+  
