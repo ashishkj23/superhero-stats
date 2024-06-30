@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ashishkj23/superhero-stats/static/css/main.6a5a543e.css",
-    "main.js": "/ashishkj23/superhero-stats/static/js/main.c08467b6.js",
+    "main.js": "/ashishkj23/superhero-stats/static/js/main.bfc9251a.js",
     "static/js/453.0d20f379.chunk.js": "/ashishkj23/superhero-stats/static/js/453.0d20f379.chunk.js",
     "index.html": "/ashishkj23/superhero-stats/index.html",
     "main.6a5a543e.css.map": "/ashishkj23/superhero-stats/static/css/main.6a5a543e.css.map",
-    "main.c08467b6.js.map": "/ashishkj23/superhero-stats/static/js/main.c08467b6.js.map",
+    "main.bfc9251a.js.map": "/ashishkj23/superhero-stats/static/js/main.bfc9251a.js.map",
     "453.0d20f379.chunk.js.map": "/ashishkj23/superhero-stats/static/js/453.0d20f379.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a5a543e.css",
-    "static/js/main.c08467b6.js"
+    "static/js/main.bfc9251a.js"
   ]
 }
